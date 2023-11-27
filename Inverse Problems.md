@@ -5,3 +5,11 @@
 -
 -
 -
+
+### Physics-informed neural networks for inverse problems in supersonic flows
+
+<https://arxiv.org/pdf/2202.11821.pdf>
+
+-
+-
+-
