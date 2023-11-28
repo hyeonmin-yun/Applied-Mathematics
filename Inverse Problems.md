@@ -1,13 +1,32 @@
 [Individual Research]
 
+[Read (1) > (2) > (3)]
+
+(1)
 ### Deep Neural Network Approach to Forward-Inverse Problems
 
-<https://arxiv.org/pdf/1907.12925.pdf>
+<https://arxiv.org/abs/1907.12925>
 
 -
 -
 -
 
+(2)
+### Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
+
+<https://arxiv.org/abs/2205.01059>
+
+-
+-
+-
+
+(3)
+### TERRACE SOLUTIONS FOR NON-LIPSCHITZ MULTISTABLE NONLINEARITIES
+<https://arxiv.org/abs/2208.01505>
+
+-
+-
+-
 
 
 
