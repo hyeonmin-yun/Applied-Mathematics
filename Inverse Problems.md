@@ -1,17 +1,13 @@
 [Individual Research]
 
-[Read (1) > (2) > (3)]
-
-(1)
 ### Deep Neural Network Approach to Forward-Inverse Problems
 
 <https://arxiv.org/abs/1907.12925>
 
--
--
--
+- PINN is the method to solve the pde using neural network.
+- (studied basic settings before)
+- How to use this in Inverse problem? ... Estimating operator's parameter together with loss convergence.
 
-(2)
 ### Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
 
 <https://arxiv.org/abs/2205.01059>
