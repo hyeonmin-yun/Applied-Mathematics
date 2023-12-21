@@ -12,7 +12,7 @@
 
 <https://arxiv.org/abs/2205.01059>
 
--
+- Optimization method: 1) Lagrangian 2) penalty method. Augmented Lagrangian method: 1) + 2)
 -
 -
 
