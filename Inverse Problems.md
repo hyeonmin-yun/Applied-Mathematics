@@ -7,6 +7,7 @@
 - PINN is the method to solve the pde using neural network.
 - (studied basic settings before)
 - How to use this in Inverse problem? ... Estimating operator's parameter together with loss convergence.
+typo) TP equation IC, coefficients. 10/4, not 0.25
 
 ### Enhanced Physics-Informed Neural Networks with Augmented Lagrangian Relaxation Method (AL-PINNs)
 
