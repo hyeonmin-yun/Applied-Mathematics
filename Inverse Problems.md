@@ -2,7 +2,7 @@
 
 ### Deep Neural Network Approach to Forward-Inverse Problems
 
-<https://arxiv.org/abs/1907.12925>
+<https://www.aimsciences.org/article/doi/10.3934/nhm.2020011>
 
 - PINN is the method to solve the pde using neural network.
 - (studied basic settings before)
